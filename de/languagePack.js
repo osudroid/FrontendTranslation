@@ -29,19 +29,18 @@ export const languagePack = {
     },
     about:{
         "about":["Über"],
-        "text":["osu!droid"," ist ein Rhytmus Spiel für Android. Es war ein Spiel, das es viele Jahren schon von","osu!","Community entwickelt wurde."],
-        "text2":["Es wird nun von unserer Community und Freunden weiterentwickelt. Außerdem ist, das Spiel kostenlos spielbar. "],
-        "text3":["Das Spiel/Programm und Webseite ist nicht mit ","osu!","oder","ppy","gebunden."]
+        "text":["osu!droid"," ist ein Rhytmus Spiel für Android. Es war ein Spiel, das es viele Jahren schon von","osu!","Community entwickelt wurde.","Es wird nun von unserer Community und Freunden weiterentwickelt. Außerdem ist, das Spiel kostenlos spielbar.","Das Spiel/Programm und Webseite ist nicht mit ","osu!","oder","ppy","gebunden."],
+        "text1":["Das Spiel/Programm und Webseite ist nicht mit ","osu!","oder","ppy","gebunden."]
     },
 
     leaderboard:{
         "leaderboard":["Rangliste"],
-        "rank":["Rang"],
+        "rank":["#"],
         "playername":["Spielername"],
         "score":["Score"],
         "accuracy":["Accuracy"],
         "region":["#"],
-        "Text": ["Jede Beatmap ist in unseren Spiel geranglistet. In, den Leaderboard kannst du die Top 100 von der ganze Welt sehen."]
+        "text": ["Jede Beatmap ist in unseren Spiel geranglistet. In, den Leaderboard kannst du die Top 100 von der ganze Welt sehen."]
     },
 
     community:{
@@ -55,11 +54,11 @@ export const languagePack = {
     faq:{
         "faq":["Fragen und Antworten"],
         "gameQuestion":["Habe, das Spiel nie gespielt, Wie fange ich an?"],
-            "gameanswer":["Wir bevorzugen dir diesen Artikel anzuschauen."],
+            "gameAnswer":["Wir bevorzugen dir diesen Artikel anzuschauen."],
         "beatmapsQuestion":["Wie, Wo, kann ich Beatmaps Downloaden?"],
-            "beatmapsanswer":["Du kannst auf der","osu! Offiziele Webseite","Beatmaps herunterladen. Du kannst auch ein anderen Beatmap Download Server. Wie,","Chimu,","Sayobot,","etc","benutzen","oder du benutzt, den", "BeatmapService","für Android."],
+            "beatmapsAnswer":["Du kannst auf der","osu! Offiziele Webseite","Beatmaps herunterladen. Du kannst auch ein anderen Beatmap Download Server. Wie,","Chimu,","Sayobot,","etc","benutzen","oder du benutzt, den", "BeatmapService","für Android."],
         "deviceQuestion":["Was ist die Anforderung, des Spiels?"],
-            "deviceanswer":["Du kannst jeden Android Gerät benutzen. Die Mindest Android Version ist 2.3 oder höher.","Es ist bekannt, das bei einige Samsung Smartphones Kompatibilitäts Probleme gibt. Daher versuch mal eine alternatives Android-Betriebssystem."],
+            "deviceAnswer":["Du kannst jeden Android Gerät benutzen. Die Mindest Android Version ist 2.3 oder höher.","Es ist bekannt, das bei einige Samsung Smartphones Kompatibilitäts Probleme gibt. Daher versuch mal eine alternatives Android-Betriebssystem."],
         "moreFaq":["Klick","Hier","Für weitere Fragen"]
     },
 

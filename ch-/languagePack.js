@@ -29,16 +29,18 @@ export const languagePack = {
     },
     about:{
         "about":[],
-        "text":[]
+        "text":[],
+        "text1":[]
     },
 
     leaderboard:{
         "leaderboard":[],
-        "rank":[],
+        "rank":["#"],
         "playername":[],
         "score":[],
         "accuracy":[],
-        "region":[]
+        "region":[],
+        "text":[]
     },
 
     community:{
@@ -51,10 +53,13 @@ export const languagePack = {
 
     faq:{
         "faq":[],
-        "game":[],
-        "beatmaps":[],
-        "device":[],
-        "morefaq":[]
+        "gameQuestion":[],
+            "gameAnswer":[],
+        "beatmapsQuestion":[],
+            "beatmampsAnswer":[],
+        "deviceQuestion":[],
+            "deviceAnswer":[],
+        "moreFaq":[]
     },
 
     safety:{

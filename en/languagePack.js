@@ -29,7 +29,8 @@ export const languagePack = {
     },
     about:{
         "about":["about"],
-        "text":["osu!droid is an music rhythm game for android smartphones. It was a game hatched many years ago in the desktop player","osu! player community. It is now being developed by a group of domestic fans and also with the help of foreign friends. This is also a completely free-to-play game.","This game program and this website is not affiliated with osu! or ppy."]
+        "text":["osu!droid is an music rhythm game for android smartphones. It was a game hatched many years ago in the desktop player","osu! player community. It is now being developed by a group of domestic fans and also with the help of foreign friends. This is also a completely free-to-play game."],
+        "text1":["This game program and this website is not affiliated with osu! or ppy."]
     },
 
     leaderboard:{
@@ -38,7 +39,8 @@ export const languagePack = {
         "playername":["Username"],
         "score":["Score"],
         "accuracy":["Accuracy"],
-        "region":["#"]
+        "region":["#"],
+        "text":["Each Beatmap has a leaderboard that lets you compete with every user in the game! Here is a list of the top 100 players in the world."]
     },
 
     community:{
@@ -52,12 +54,12 @@ export const languagePack = {
     faq:{
         "faq":["Frequently Asked Questions (FAQ)"],
         "gameQuestion":["I have never played this game before","how do I get started?"],
-            "gameanswer":["We recommend you get started with","this article"],
+            "gameAnswer":["We recommend you get started with","this article"],
         "beatmaps":["How do I get more beatmaps?"],
-            "beatmapsanswer":["You can get the spectrum from the","osu! Official website",", through the osu! Beatmap mirror site such as","Chimue(Bloodcat),","sayobot","etc","or using the Android Beatmap downloader such as","BeatmapService"],
+            "beatmapsAnswer":["You can get the spectrum from the","osu! Official website",", through the osu! Beatmap mirror site such as","Chimue(Bloodcat),","sayobot","etc","or using the Android Beatmap downloader such as","BeatmapService"],
         "deviceQustion":["What is the minimum configuration of the game?"],
-            "deviceanswer":["Use any Android device with version 2.3 or higher to play games.","It is known that some Samsung-branded mobile phones have compatibility problems. It is recommended to try a third-party ROM."],
-        "morefaq":["Click","here","for more questions."]
+            "deviceAnswer":["Use any Android device with version 2.3 or higher to play games.","It is known that some Samsung-branded mobile phones have compatibility problems. It is recommended to try a third-party ROM."],
+        "moreFaq":["Click","here","for more questions."]
     },
 
     safety:{
