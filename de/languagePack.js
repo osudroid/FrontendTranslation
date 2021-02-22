@@ -39,7 +39,7 @@ export const languagePack = {
         "playername":["Spielername"],
         "score":["Score"],
         "accuracy":["Accuracy"],
-        "region":["#"],
+        "region":["Land"],
         "text": ["Jede Beatmap ist in unseren Spiel geranglistet. In, den Leaderboard kannst du die Top 100 von der ganze Welt sehen."]
     },
 

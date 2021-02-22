@@ -39,7 +39,7 @@ export const languagePack = {
         "playername":["Username"],
         "score":["Score"],
         "accuracy":["Accuracy"],
-        "region":["#"],
+        "region":["Region"],
         "text":["Each Beatmap has a leaderboard that lets you compete with every user in the game! Here is a list of the top 100 players in the world."]
     },
 
